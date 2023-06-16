@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_margin">16dp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="question_text_padding">8dp</dimen>
+    <dimen name="answer_box_padding_start_end">10dp</dimen>
+    <dimen name="answer_box_padding_top_bottom">7dp</dimen>
+</resources>

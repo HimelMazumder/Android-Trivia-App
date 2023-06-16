@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia by Kraatoo</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Ques: %d / %d</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="placeholder_text">Hello, this is where we are going to put the actual text to be shown.</string>
+
+    <string name="right_answer">Right</string>
+    <string name="wrong_answer">Wrong</string>
+
+    <string name="no_answered_prompt">Answer First</string>
+    <string name="score_text">Scr: %d / %d</string>
+</resources>
